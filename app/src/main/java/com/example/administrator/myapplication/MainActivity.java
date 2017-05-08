@@ -21,8 +21,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void init(){
+
         // zhoushen add
         Log.d("zhoushen","log test!!!");
 
+        System.out.println("22222");
     }
 }
