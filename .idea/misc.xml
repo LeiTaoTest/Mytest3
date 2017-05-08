@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="E:/AndroidStudioProjects" value="4405438335136" />
-        <entry key="E:/AndroidStudioProjects/Hello" value="4405439106300" />
-        <entry key="E:/AndroidStudioProjects/HelloWorldSVN" value="4381880702849" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
