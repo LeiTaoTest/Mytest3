@@ -14,5 +14,10 @@ public class TestActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.test);
+        loadData();//加载数据
+    }
+
+    private void loadData(){
+
     }
 }
