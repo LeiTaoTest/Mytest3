@@ -2,6 +2,7 @@ package com.example.administrator.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -20,7 +21,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void init(){
-        System.out.println("22222");
 
+        // zhoushen add
+        Log.d("zhoushen","log test!!!");
+
+        System.out.println("22222");
     }
 }
